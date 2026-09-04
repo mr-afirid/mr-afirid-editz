@@ -148,7 +148,7 @@ function triggerTypewriterLetterReveal() {
     }, 400);
     
     function startTypewriterAnimation() {
-        const plainTextMessage = "dear shahjahan miss,\n\nwords cannot fully describe how thankful we are to have you as our teacher. you don't just teach lessons from a textbook, you teach us how to be better human beings. your kindness makes the classroom feel safe, and your dedication inspires all of us to try our absolute best.\n\nthank you for always listening, for laughing with us, and for never giving up on any student. you are more than a teacher to us; you are a wonderful mentor. wishing you a beautiful day filled with the same joy you bring into our lives every single day!\n\nwith respect and gratitude,\nyour students.";
+        const plainTextMessage = "dear Padma.L miss,\n\nwords cannot fully describe how thankful we are to have you as our teacher. you don't just teach lessons from a textbook, you teach us how to be better human beings. your kindness makes the classroom feel safe, and your dedication inspires all of us to try our absolute best.\n\nthank you for always listening, for laughing with us, and for never giving up on any student. you are more than a teacher to us; you are a wonderful mentor. wishing you a beautiful day filled with the same joy you bring into our lives every single day!\n\nwith respect and gratitude,\nyour students.";
         
         let currentCharacterPointerIndex = 0;
         typewriterOutputTarget.innerHTML = "";
